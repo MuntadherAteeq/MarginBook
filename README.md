@@ -38,28 +38,22 @@ git clone https://github.com/MuntadherAteeq/MarginBook
 
 ```
 
-npm install electron
-
-3. 🔍 Navigate to the MarginBook directory in your terminal.
+1. 🔍 Navigate to the MarginBook directory in your terminal.
 
 ```powershell
 cd ./MarginBook
 ```
 
-4. ⬇ install all the packages
+4. ⬇ install all the required packages:
 
 ```powershell
 npm install
 ```
 
 5. 💻 Run the following command to start the Electron app:
-   Copy code
-   electron .
 
 ```powershell
-npm install
 npm run dev
 ```
 
 🎉 Congratulations! You have successfully built MarginBook using Electron.
-
